@@ -1,0 +1,10 @@
+[19-Nov-2018 03:30:23 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/u4486592/public_html/ppdb/asrama/inc/config.php on line 10
+[01-Jan-2019 13:24:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u4486592/public_html/psb/asrama/pages/tables/tabellulus.php on line 532
+[10-Jan-2019 13:44:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u4486592/public_html/psb/asrama/pages/tables/tabellulus.php on line 600
+[28-Feb-2019 03:28:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/u4486592/public_html/psb/asrama/inc/config.php on line 10
+[28-Feb-2019 03:28:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/u4486592/public_html/psb/asrama/inc/config.php on line 10
+[28-Feb-2019 03:28:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/u4486592/public_html/psb/asrama/inc/config.php on line 10
+[28-Feb-2019 03:28:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/u4486592/public_html/psb/asrama/inc/config.php on line 10
+[28-Feb-2019 03:28:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/u4486592/public_html/psb/asrama/inc/config.php on line 10
+[28-Feb-2019 03:28:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/u4486592/public_html/psb/asrama/inc/config.php on line 10
+[28-Feb-2019 03:29:42 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/u4486592/public_html/psb/asrama/inc/config.php on line 10
